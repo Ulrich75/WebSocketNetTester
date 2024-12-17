@@ -25,5 +25,5 @@ Cette application utilise Flask et Socket.IO pour établir une communication Web
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/flask-websocket-app.git
-   cd flask-websocket-app
+   git clone https://github.com/Ulrich75/WebSocketNetTester.git
+   cd WebSocketNetTester
